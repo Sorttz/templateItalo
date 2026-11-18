@@ -8,19 +8,20 @@
 
 # Nome do projeto
 E-SPORTS ARENA (Campeonato de Corrida)
+
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
 - <a >Everton Pedro</a>
 - <a ">Icaro Nicolas</a>
-- <a href="https://www.linkedin.com/feed/foryou/">Janderson Alves</a> 
+- <a >Janderson Alves</a> 
 - <a >Rafael Farias</a> 
 
 ## 👩‍🏫 Professores:
 ### Professor(a) 
-- <a href="https://www.linkedin.com/feed/foryou/">Lucas Gomes Moreira</a>
- <a href="https://www.linkedin.com/feed/foryou/">Paulo Sérgio Pádua de Lacerda</a>
-  <a href="https://www.linkedin.com/feed/foryou/">Rodinei Cesar Pontelli</a>
+- <a >Lucas Gomes Moreira</a>
+ <a >Paulo Sérgio Pádua de Lacerda</a>
+  <a >Rodinei Cesar Pontelli</a>
 
 
 ## 📜 Descrição
@@ -48,21 +49,30 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
+### Fase 1: Pré-requisitos
+Para executar o sistema localmente, você precisará apenas de um computador com sistema operacional Windows e do interpretador de pseudocódigo **VisualG 3.0** (ou superior) instalado.
+
+### Fase 2: Download do repositório
+1. Na página principal deste repositório no GitHub, clique no botão verde **`<> Code`**.
+2. Selecione a opção **`Download ZIP`** e extraia a pasta em seu computador (ou utilize o comando `git clone` via terminal).
+
+### Fase 3: Execução no VisualG
+1. Abra o programa **VisualG 3.0**.
+2. No menu superior, clique em **Arquivo > Abrir** (ou pressione `Ctrl + A`).
+3. Navegue até a pasta `/src` do projeto baixado e selecione o arquivo principal do algoritmo (`.alg`).
+4. Pressione a tecla **`F9`** (ou clique em **Run > Rodar**) para iniciar o menu
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
+* 0.4.0 - XX/11/2026
+    * Revisão final do código, consolidação do PDF único de Gestão de Projetos e atualização do README.md
+* 0.3.0 - XX/11/2026
+    * Desenvolvimento da lógica de pontuação, classificação e ranking automático do Campeonato de Corrida no VisualG.
+* 0.2.0 - XX/11/2026
+    * Criação dos módulos de cadastro de pilotos, registro de equipes e definição da arquitetura de rede. 
+* 0.1.0 - 14/10/2026
+    *Estruturação inicial do repositório, definição de escopo, requisitos FURPS, Backlog Scrum e Matriz RASCI.
 
 ## 📋 Licença
 
