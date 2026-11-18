@@ -65,11 +65,11 @@ Para executar o sistema localmente, você precisará apenas de um computador com
 
 ## 🗃 Histórico de lançamentos
 
-* 0.4.0 - XX/11/2026
+* 0.4.0 - 15/11/2026
     * Revisão final do código, consolidação do PDF único de Gestão de Projetos e atualização do README.md
-* 0.3.0 - XX/11/2026
+* 0.3.0 - 10/11/2026
     * Desenvolvimento da lógica de pontuação, classificação e ranking automático do Campeonato de Corrida no VisualG.
-* 0.2.0 - XX/11/2026
+* 0.2.0 - 21/11/2026
     * Criação dos módulos de cadastro de pilotos, registro de equipes e definição da arquitetura de rede. 
 * 0.1.0 - 14/10/2026
     *Estruturação inicial do repositório, definição de escopo, requisitos FURPS, Backlog Scrum e Matriz RASCI.
